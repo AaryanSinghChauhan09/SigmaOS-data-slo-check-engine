@@ -3,7 +3,7 @@ name = "SigmaOS-data-slo-check-engine"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "data-slo-check-engine component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
